@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.46fea84c.css",
-    "main.js": "/Portfolio/static/js/main.98655eb9.js",
+    "main.css": "/Portfolio/static/css/main.a64dc47a.css",
+    "main.js": "/Portfolio/static/js/main.525b17b6.js",
     "static/media/Cutit_web.JPG": "/Portfolio/static/media/Cutit_web.ddd38b89a9408aac8831.JPG",
     "static/media/pasieka.JPG": "/Portfolio/static/media/pasieka.d9dbe6970c4232c1c802.JPG",
     "static/media/Influencio_web.JPG": "/Portfolio/static/media/Influencio_web.ea7e8e8a62d6a7f1a80d.JPG",
-    "static/media/porfolio_web2.JPG": "/Portfolio/static/media/porfolio_web2.3a392f9a849662ae6f34.JPG",
     "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/htmx.png": "/Portfolio/static/media/htmx.4661a2c362bcaade89a1.png",
     "static/media/obraz.jpg": "/Portfolio/static/media/obraz.2ec689b4b8da32cfe117.jpg",
@@ -16,11 +15,11 @@
     "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
-    "main.46fea84c.css.map": "/Portfolio/static/css/main.46fea84c.css.map",
-    "main.98655eb9.js.map": "/Portfolio/static/js/main.98655eb9.js.map"
+    "main.a64dc47a.css.map": "/Portfolio/static/css/main.a64dc47a.css.map",
+    "main.525b17b6.js.map": "/Portfolio/static/js/main.525b17b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.46fea84c.css",
-    "static/js/main.98655eb9.js"
+    "static/css/main.a64dc47a.css",
+    "static/js/main.525b17b6.js"
   ]
 }
