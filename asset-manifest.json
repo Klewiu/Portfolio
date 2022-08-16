@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.4cbc15d9.css",
-    "main.js": "/Portfolio/static/js/main.1d6f7d1b.js",
+    "main.css": "/Portfolio/static/css/main.5c6bd685.css",
+    "main.js": "/Portfolio/static/js/main.a77cbc00.js",
     "static/media/Cutit_web.JPG": "/Portfolio/static/media/Cutit_web.ddd38b89a9408aac8831.JPG",
     "static/media/pasieka.JPG": "/Portfolio/static/media/pasieka.d9dbe6970c4232c1c802.JPG",
     "static/media/Influencio_web.JPG": "/Portfolio/static/media/Influencio_web.ea7e8e8a62d6a7f1a80d.JPG",
@@ -15,11 +15,11 @@
     "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
-    "main.4cbc15d9.css.map": "/Portfolio/static/css/main.4cbc15d9.css.map",
-    "main.1d6f7d1b.js.map": "/Portfolio/static/js/main.1d6f7d1b.js.map"
+    "main.5c6bd685.css.map": "/Portfolio/static/css/main.5c6bd685.css.map",
+    "main.a77cbc00.js.map": "/Portfolio/static/js/main.a77cbc00.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cbc15d9.css",
-    "static/js/main.1d6f7d1b.js"
+    "static/css/main.5c6bd685.css",
+    "static/js/main.a77cbc00.js"
   ]
 }
