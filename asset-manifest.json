@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.aa124525.css",
+    "main.js": "/Portfolio/static/js/main.cdeeb6e8.js",
+    "static/media/Cutit_web.JPG": "/Portfolio/static/media/Cutit_web.ddd38b89a9408aac8831.JPG",
+    "static/media/pasieka.JPG": "/Portfolio/static/media/pasieka.d9dbe6970c4232c1c802.JPG",
+    "static/media/Influencio_web.JPG": "/Portfolio/static/media/Influencio_web.ea7e8e8a62d6a7f1a80d.JPG",
+    "static/media/porfolio_web2.JPG": "/Portfolio/static/media/porfolio_web2.3a392f9a849662ae6f34.JPG",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/htmx.png": "/Portfolio/static/media/htmx.4661a2c362bcaade89a1.png",
+    "static/media/obraz.jpg": "/Portfolio/static/media/obraz.2ec689b4b8da32cfe117.jpg",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/django-logo2.png": "/Portfolio/static/media/django-logo2.38201b6f3e129cddac80.png",
+    "static/media/tailwind.png": "/Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio/index.html",
+    "main.aa124525.css.map": "/Portfolio/static/css/main.aa124525.css.map",
+    "main.cdeeb6e8.js.map": "/Portfolio/static/js/main.cdeeb6e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa124525.css",
+    "static/js/main.cdeeb6e8.js"
+  ]
+}
