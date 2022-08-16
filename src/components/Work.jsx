@@ -26,7 +26,7 @@ const Work = () => {
 
                 <div 
                 style={{backgroundImage:`url(${influencio})`}} 
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' >
+                className='shadow-md shadow-white group container rounded-md flex justify-center items-center mx-auto content-div' >
                     
                     {/* hover effect */}
 
@@ -49,7 +49,7 @@ const Work = () => {
 
                 <div 
                 style={{backgroundImage:`url(${pasieka})`}} 
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' >
+                className='shadow-md shadow-white group container rounded-md flex justify-center items-center mx-auto content-div' >
                     
                     {/* hover effect */}
 
@@ -74,7 +74,7 @@ const Work = () => {
 
                 <div 
                 style={{backgroundImage:`url(${cutit})`}} 
-                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' >
+                className='shadow-md shadow-white group container rounded-md flex justify-center items-center mx-auto content-div' >
                     
                     {/* hover effect */}
 
