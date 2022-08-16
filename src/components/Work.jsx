@@ -2,7 +2,7 @@ import React from 'react'
 import influencio from '../assets/Influencio_web.JPG'
 import pasieka from '../assets/pasieka.JPG'
 import cutit from '../assets/Cutit_web.JPG'
-import portfolio from '../assets/porfolio_web2.JPG'
+
 
 
 
@@ -10,11 +10,11 @@ import portfolio from '../assets/porfolio_web2.JPG'
 
 const Work = () => {
   return (
-    <div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f] bg-fade py-5'>
+    <div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f] bg-fade pt-[80px]'>
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#ff9869ff]'>Work</p>
-                <p className='py-6'>//Checkout some of my recent work</p>
+                <p className='py-3'>//Checkout some of my recent work</p>
             </div>
 
             {/* Container */}
