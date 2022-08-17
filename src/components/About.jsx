@@ -14,15 +14,17 @@ const About = () => {
           <div></div>
           </div>
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-            <div className="sm:text-right text-3xl font-bold">
+            <div className="sm:text-right text-xl text-[#8892b0]">
               <p>
-                Hi. My name is Jakub Klewicki. Please take a look at my
-                portfolio.
-              </p>
+                Hi! I am a Mechatronics engineer who works as a Production Manager and deals with programming after work.
+                I mainly work in Python and Django framework with TailwindCSS, Bootstrap, Htmx...
+                <p className="py-1">Additionally, I develop my skills with React. I am passionate about creating beautiful and  functional web applications.</p>
+                
+              </p>  
             </div>
             <div>
               <p> 
-                <img src={obraz} alt='avatar' style={{ width: '180px', borderRadius:180/2} } />
+                <img src={obraz} alt='avatar' style={{ width: '180px', borderRadius:10} } />
               </p>
             </div>
           </div>
