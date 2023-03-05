@@ -2,6 +2,7 @@ import React from 'react'
 import influencio from '../assets/Influencio_web.JPG'
 import pasieka from '../assets/pasieka.JPG'
 import cutit from '../assets/Cutit_web.JPG'
+import toolman from '../assets/Toolman_preview.png'
 
 
 
@@ -70,6 +71,33 @@ const Work = () => {
                     
                 </div>
 
+                {/* TOOLMAN */}
+
+                <div 
+                style={{backgroundImage:`url(${toolman})`}} 
+                className='shadow-lg shadow-white group container rounded-md flex justify-center items-center mx-auto content-div' >
+                    
+                    {/* hover effect */}
+
+                    <div className='invisible group-hover:visible'>
+                        <span className='text-2xl font-bold text-white tracking-wider'>
+                        MERN APP /TAILWIND
+                        </span>
+                        <div className='pt-8 text center'>
+                            {/* <a href='https://www.pasiekaradosc.pl/'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font bold text-lg'>Demo</button>
+                            </a> */}
+                            <a href='https://github.com/Klewiu/Toolman'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font bold text-lg'>Code</button>
+                            </a>
+                        </div>
+                    </div>
+
+                    
+                </div>
+
+
+
                   {/* CUT-IT */}
 
                 <div 
@@ -83,7 +111,7 @@ const Work = () => {
                         DJANGO / HTMX
                         </span>
                         <div className='pt-8 text center'>
-                            <a href='http://ats-cutit.herokuapp.com'>
+                            <a href='http://Klewiu.usermd.net'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font bold text-lg'>Demo</button>
                             </a>
                             <a href='https://github.com/Klewiu/CutIt'>
