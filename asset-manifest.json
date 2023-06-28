@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.72aefac7.css",
-    "main.js": "/Portfolio/static/js/main.2a2a7399.js",
+    "main.js": "/Portfolio/static/js/main.cbcd20f9.js",
     "static/media/ManualsQR.jpg": "/Portfolio/static/media/ManualsQR.c40a140c45671cde6100.jpg",
     "static/media/Cutit_web.JPG": "/Portfolio/static/media/Cutit_web.ddd38b89a9408aac8831.JPG",
     "static/media/pasieka.JPG": "/Portfolio/static/media/pasieka.d9dbe6970c4232c1c802.JPG",
@@ -18,10 +18,10 @@
     "static/media/Toolman_preview.png": "/Portfolio/static/media/Toolman_preview.86483ddc329a6096d6e5.png",
     "index.html": "/Portfolio/index.html",
     "main.72aefac7.css.map": "/Portfolio/static/css/main.72aefac7.css.map",
-    "main.2a2a7399.js.map": "/Portfolio/static/js/main.2a2a7399.js.map"
+    "main.cbcd20f9.js.map": "/Portfolio/static/js/main.cbcd20f9.js.map"
   },
   "entrypoints": [
     "static/css/main.72aefac7.css",
-    "static/js/main.2a2a7399.js"
+    "static/js/main.cbcd20f9.js"
   ]
 }
