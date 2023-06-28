@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.72aefac7.css",
-    "main.js": "/Portfolio/static/js/main.e1e498f8.js",
+    "main.js": "/Portfolio/static/js/main.2a2a7399.js",
+    "static/media/ManualsQR.jpg": "/Portfolio/static/media/ManualsQR.c40a140c45671cde6100.jpg",
     "static/media/Cutit_web.JPG": "/Portfolio/static/media/Cutit_web.ddd38b89a9408aac8831.JPG",
     "static/media/pasieka.JPG": "/Portfolio/static/media/pasieka.d9dbe6970c4232c1c802.JPG",
     "static/media/Influencio_web.JPG": "/Portfolio/static/media/Influencio_web.8ec7a352cda3c4eeb269.JPG",
@@ -17,10 +18,10 @@
     "static/media/Toolman_preview.png": "/Portfolio/static/media/Toolman_preview.86483ddc329a6096d6e5.png",
     "index.html": "/Portfolio/index.html",
     "main.72aefac7.css.map": "/Portfolio/static/css/main.72aefac7.css.map",
-    "main.e1e498f8.js.map": "/Portfolio/static/js/main.e1e498f8.js.map"
+    "main.2a2a7399.js.map": "/Portfolio/static/js/main.2a2a7399.js.map"
   },
   "entrypoints": [
     "static/css/main.72aefac7.css",
-    "static/js/main.e1e498f8.js"
+    "static/js/main.2a2a7399.js"
   ]
 }
