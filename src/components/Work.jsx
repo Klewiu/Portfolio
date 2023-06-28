@@ -85,9 +85,9 @@ const Work = () => {
                         MERN APP /TAILWIND
                         </span>
                         <div className='pt-8 text center'>
-                            {/* <a href='https://www.pasiekaradosc.pl/'>
+                            <a href='https://toolman.pl/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font bold text-lg'>Demo</button>
-                            </a> */}
+                            </a>
                             <a href='https://github.com/Klewiu/Toolman'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font bold text-lg'>Code</button>
                             </a>
