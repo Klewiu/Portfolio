@@ -3,6 +3,7 @@ import influencio from '../assets/Influencio_web.JPG'
 import pasieka from '../assets/pasieka.JPG'
 import cutit from '../assets/Cutit_web.JPG'
 import toolman from '../assets/Toolman_preview.png'
+import manualsqr from '../assets/ManualsQR.jpg'
 
 
 
@@ -98,7 +99,7 @@ const Work = () => {
 
 
 
-                  {/* CUT-IT */}
+                {/* CUT-IT */}
 
                 <div 
                 style={{backgroundImage:`url(${cutit})`}} 
@@ -115,6 +116,32 @@ const Work = () => {
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font bold text-lg'>Demo</button>
                             </a>
                             <a href='https://github.com/Klewiu/CutIt'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font bold text-lg'>Code</button>
+                            </a>
+                        </div>
+                    </div>
+
+                    
+                </div>
+
+
+                {/* MANULASQR*/}
+
+                <div 
+                style={{backgroundImage:`url(${manualsqr})`}} 
+                className='shadow-lg shadow-white group container rounded-md flex justify-center items-center mx-auto content-div' >
+                    
+                    {/* hover effect */}
+
+                    <div className='invisible group-hover:visible'>
+                        <span className='text-2xl font-bold text-white tracking-wider'>
+                        DJANGO / HTMX
+                        </span>
+                        <div className='pt-8 text center'>
+                            <a href='http://atsdisplay.com.pl'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font bold text-lg'>Demo</button>
+                            </a>
+                            <a href='https://github.com/Klewiu/ManualsQR'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font bold text-lg'>Code</button>
                             </a>
                         </div>
